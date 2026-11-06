@@ -50,7 +50,7 @@ Worked on application interfaces, API integrations, localization workflows, and 
 
 ### **Savvy Shopper | Cross-Platform Shopping Application**
 
-Developed a cross-platform shopping application using React Native, Expo, TypeScript, and Expo Router.
+Developed a cross-platform shopping application using React Native, Expo, TypeScript, and Expo Router and Firebase.
 
 Focused on reusable components, structured navigation, maintainability, and user experience.
 
