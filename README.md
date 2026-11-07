@@ -85,7 +85,7 @@ I enjoy contributing to open-source projects, improving software reliability, wr
 
 ## **JAPANESE LEARNING JOURNEY | 日本語学習**
 
-Currently preparing for **JLPT N5 this July**.
+Currently preparing for **JLPT N5 this July 2027**.
 
 **7月のJLPT N5試験に向けて勉強中です。**
 
