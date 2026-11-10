@@ -3,7 +3,7 @@
 ### Software Developer | Engineering Student | Open Source Contributor
 ### ソフトウェア開発者 | 工学部学生 | オープンソース貢献者
 
-----------------------
+-------------------------------
 
 I'm an engineering undergraduate passionate about software development, mobile applications, AI-enabled products, and building technology that solves real-world problems.
 
